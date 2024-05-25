@@ -1,0 +1,36 @@
+body {
+    background-image: url(medias/2.jfif);
+    background-size: 150%;
+    background-position: center;
+}
+
+h1 {
+    font-weight: bold; 
+    color: #FF5733; 
+}
+
+h2 {
+    font-weight: bold; /* Hacer que el texto del encabezado sea negrita */
+    color: #FF5733; /* Color naranja para resaltar */
+}
+
+ul {
+    font-weight: bold; /* Hacer que el texto del encabezado sea negrita */
+    color: #FF5733; /* Color naranja para resaltar */
+}
+li {
+    font-weight: bold; /* Hacer que el texto del encabezado sea negrita */
+    color: #FF5733; /* Color naranja para resaltar */
+}
+nav li a {
+    font-weight: bold; /* Hacer que el texto del encabezado sea negrita */
+    color: #FF5733; /* Color naranja para resaltar */
+}
+
+h1 {text-align: center;}
+
+
+.catalogo .medias img {
+    max-width: 200px; /* Ancho máximo de 200 píxeles */
+    max-height: 200px; /* Altura máxima de 200 píxeles */
+}
